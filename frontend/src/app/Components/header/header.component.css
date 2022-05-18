@@ -1,0 +1,18 @@
+header {
+  background-color: #1F242D;
+  height: 50px;
+  width: 100%;
+  z-index: 5;
+  position: relative;
+  display: flex;
+}
+
+.navbar li {
+  padding-left: 20px;
+}
+
+.user-image{
+  height: auto;
+  width: 2.1rem;
+  border-radius: 50%;
+}
